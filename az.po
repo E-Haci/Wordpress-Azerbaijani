@@ -15117,3 +15117,5 @@ msgstr "Axtarış motorlarına bu saytı indeksləməyə qadağa qoyun"
 msgid "It is up to search engines to honor this request."
 msgstr "Bu istəyinizə hörmət edilməsi axtarış motorlarından asılıdır."
 
+msgid "Create a brand new user and add it to this site."
+msgstr "Yeni marka istifadəçisi yarat və sayta əlavə et."
