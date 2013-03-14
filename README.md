@@ -4,6 +4,7 @@ Po faylını redaktə edə bilərsiniz.
 Redaktə edərkən PO faylını strukturuna diqqət edin. İstər cari sözləri redaktə edərkən, istərsə də yeni sözlər daxil edərkən aşağıdakı standarta əməl edin. 
 
 msgid "Import"
+
 msgstr "İdxal"
 
 Yeni sözlər daxil edərkən ancaq Wordpress-də rast gəldiyiniz, amma tərcüməsi Azərbaycan versiyasında əks olunmayan sözləri, fraza və cümlələri daxil edin. 
