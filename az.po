@@ -9470,11 +9470,11 @@ msgstr "Tanınma Şifrəsi istifadəçisi xətalıdır."
 
 #: wp-admin/user-edit.php:29
 msgid "Edit User"
-msgstr "İstifadə Redaktə edin"
+msgstr "İstifadəçi Redaktə Et"
 
 #: wp-admin/user-edit.php:38
 msgid "Your profile contains information about you (your &#8220;account&#8221;) as well as some personal options related to using WordPress."
-msgstr "Sizin profiliniz sizin haqqınızda məlumatı yerləşdirir(sizin &#8220hesab&#8221;)bununla birlikdə bəzi şəxsi seçimlərdən SözNəşriyatından istifadə etməklə əlaqələndirilir."
+msgstr "Profiliniz sizin haqqınızda (&#8220hesabınız&#8221;) olan məlumatlarla birlikdə WordPress istifadə etməklə əlaqəli bəzi şəxsi seçimləri ehtiva edir."
 
 #: wp-admin/user-edit.php:39
 msgid "You can change your password, turn on keyboard shortcuts, change the color scheme of your WordPress administration screens, and turn off the WYSIWYG (Visual) editor, among other things."
@@ -9482,7 +9482,7 @@ msgstr "Siz şifrənizi dəyişə bilərsiz,klaviatura qısabaşlıqlarını yan
 
 #: wp-admin/user-edit.php:40
 msgid "Your username cannot be changed, but you can use other fields to enter your real name or a nickname, and change which name to display on your posts."
-msgstr "Sizin istifadəçi adınız dəyişdirilə bilinmədi,lakin siz başqa sahələrdən öz həqiqi adınızı və ya təxəllüsünüzü daxil etməklə istifadə edə bilərsiniz və öz yazılarınızda göstərilən adı dəyişin."
+msgstr "İstifadəçi adınız dəyişdirilə bilinmədi, lakin siz digər sahələrə öz həqiqi adınızı və ya təxəllüsünüzü daxil edə bilərsiniz və yazılarınızda göstərilən adı dəyişdirə bilərsiniz."
 
 #: wp-admin/user-edit.php:41
 msgid "Required fields are indicated; the rest are optional. Profile information will only be displayed if your theme is set up to do so."
@@ -9490,7 +9490,7 @@ msgstr "Tələb olunan sahələr göstərilib; qalan sahələri doldurmaq isə k
 
 #: wp-admin/user-edit.php:42
 msgid "Remember to click the Update Profile button when you are finished."
-msgstr "Qurtaranda Yeniləmə Profil düyməsini basmağı yadda saxlayın."
+msgstr "Qurtaranda Profili Güncəllə düyməsini basmağı yadda saxlayın."
 
 #: wp-admin/user-edit.php:44
 msgid "<a href=\"http://codex.wordpress.org/Users_Your_Profile_SubPanel\" target=\"_blank\">Documentation on User Profiles</a>"
@@ -9640,7 +9640,7 @@ msgstr "Əlavə  İmkanlar"
 
 #: wp-admin/user-edit.php:387
 msgid "Update Profile"
-msgstr "Profili Yenilə"
+msgstr "Profili Güncəllə"
 
 #: wp-admin/user-edit.php:387
 msgid "Update User"
